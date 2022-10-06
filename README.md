@@ -12,4 +12,4 @@ ___
 
 With the following constraints: 
 $$0 \lt n \le 10^5$$
-$$1 \le m \le 10^3
+$$1 \le m \le 10^3$$
