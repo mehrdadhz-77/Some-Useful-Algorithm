@@ -12,9 +12,4 @@ ___
 
 This is another sample text
 
-<pre>
-<h2 align = 'center'>
-<b>this is a text</b>
-__this is another text__
-</h2>
-</pre>
+<pre><p align = 'center'><b>this is a text</b>__this is another text__</p></pre>
