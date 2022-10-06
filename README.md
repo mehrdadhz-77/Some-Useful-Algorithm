@@ -7,9 +7,8 @@ Institutional Email: hassanzadeh.1961575@studenti.uniroma1.it<br/>
 <ins>__This is a sample text__</ins>
 __This is a sample text__
 <br/> <br/> <br/> 
-
-___
-
+<pre>
 With the following constraints: 
 $$0 \lt n \le 10^5$$
 $$1 \le m \le 10^3$$
+</pre>
