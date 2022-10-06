@@ -13,8 +13,8 @@ ___
 This is another sample text
 
 <pre>
-<center>
+<p align = 'center'>
 <b>this is a text</b>
 __this is another text__
-</center>
+</p>
 </pre>
