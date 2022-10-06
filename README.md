@@ -10,8 +10,5 @@ __This is a sample text__
 
 ___
 
-This is another sample text
-
-```
+With the following constraints: 
 $0 \l n \le 10^3$
-```
