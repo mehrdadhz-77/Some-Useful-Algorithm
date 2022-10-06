@@ -11,3 +11,8 @@ __This is a sample text__
 ___
 
 This is another sample text
+
+```
+__this is a text__
+__this is another text__
+```
