@@ -13,6 +13,6 @@ ___
 This is another sample text
 
 ```
-\textbf{this is a text}
+<b>this is a text}</b>
 __this is another text__
 ```
