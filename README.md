@@ -13,5 +13,5 @@ ___
 This is another sample text
 
 ```
-$$0 \l n \le 10^3$$
+$0 \l n \le 10^3$
 ```
