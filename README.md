@@ -12,7 +12,7 @@ ___
 
 This is another sample text
 
-```
+<pre>
 <b>this is a text}</b>
 __this is another text__
-```
+</pre>
