@@ -11,4 +11,4 @@ __This is a sample text__
 ___
 
 With the following constraints: 
-$0 \lt n \le 10^3$
+$$0 \lt n \le 10^3$$
