@@ -22,11 +22,11 @@ function f2(sequence, start, end):
     Else
         For i=start To end: 
             temp <-- sequence[start]
-            sequence[start] <-- sequence[end]
-            sequence[end] <-- temp
+            sequence[start] <-- sequence[i]
+            sequence[i] <-- temp
             f2(sequence, start+1, end)
             temp <-- sequence[start]
-            sequence[start] <-- sequence[end]
-            sequence[end] <-- temp
+            sequence[start] <-- sequence[i]
+            sequence[i] <-- temp
 f2(List, 0, N)            
 ```
